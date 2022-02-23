@@ -1,20 +1,3 @@
-body
-{
-    text-align: center;
-}
-
-h1 {
-    font-size: 40px;
-    font-family: sans-serif;
-    font-weight: 300;
-}
-
-.line {
-    height: 6px;
-    background-color: #000;
-    width: 70px;
-    margin: 8px auto;
-}
 #contact iframe
 {
     width: 100%;
@@ -27,16 +10,38 @@ h1 {
 {
     text-shadow: none;
 }
-
-
-.my_nav_bar
-{
-    position:sticky;
-    top:0;
-    z-index:99999
-}
-
+ 
 input
 {
-    background: grey;
+    background: grey
 }
+
+
+.nutrition_li
+{
+  margin-top: 13px;
+}
+
+.nutrition_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.nutrition_li img
+{
+  border-radius: 25px;
+}
+
+.nutrition_li p
+{
+  margin-top:10px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+
+
