@@ -1,47 +1,21 @@
-#contact iframe
+.body_background 
 {
-    width: 100%;
+    background-position: center;
+    background-size:contain;
+	background:url(Grass.jpg);
 }
-.contact_1 h3
+#myCanvas
 {
-    display: inline;
-}
-.contact_1 a
-{
-    text-shadow: none;
-}
- 
-input
-{
-    background: grey
+    border-width:10px;
+    border-style:ridge;
+	background-color:forestgreen;
 }
 
 
-.nutrition_li
-{
-  margin-top: 13px;
+#hd3{
+	display: inline-block;
+	color: red;
+	background-color: aliceblue;
+	font-family: fantasy;
 }
-
-.nutrition_li h4
-{
-    border-bottom: 1px solid white;
-    padding: 8px;
-}
-
-.nutrition_li img
-{
-  border-radius: 25px;
-}
-
-.nutrition_li p
-{
-  margin-top:10px;
-}
-
-.header_entrepreneur
-{
-  line-height: 2;
-}
-
-
 
